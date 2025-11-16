@@ -40,5 +40,4 @@ Pengguna dapat memasukkan data sebanyak-banyaknya menggunakan perulangan.
 - UAS : 90 
 - Tambah data (y/t)? t
 
-![alt image]Tugas-pemrograman-pertemuan-ke-9
-/ss run pm 3,4,5.png
+![alt image](https://github.com/sabrinadwiajeng23-cyber/Tugas-pemrograman-pertemuan-ke-9/blob/main/FlowChart.jpg)
