@@ -30,6 +30,9 @@ Pengguna dapat memasukkan data sebanyak-banyaknya menggunakan perulangan.
 7. Jika "t", tampilkan tabel data
 8. Selesai
 
+![alt image]Tugas-pemrograman-pertemuan-ke-9
+/ss run pm 3,4,5.png
+
 #Contoh Output 
 - Nama : Sabrina Dwi Ajeng
 - NIM : 312510308
@@ -37,3 +40,6 @@ Pengguna dapat memasukkan data sebanyak-banyaknya menggunakan perulangan.
 - UTS : 70 Nilai 
 - UAS : 90 
 - Tambah data (y/t)? t
+
+![alt image]Tugas-pemrograman-pertemuan-ke-9
+/ss run pm 3,4,5.png
