@@ -30,7 +30,7 @@ Pengguna dapat memasukkan data sebanyak-banyaknya menggunakan perulangan.
 7. Jika "t", tampilkan tabel data
 8. Selesai
 
-![alt image](https://github.com/sabrinadwiajeng23-cyber/Tugas-pemrograman-pertemuan-ke-9/blob/main/ss%20run%20pm%203%2C4%2C5.png)
+![alt image](https://github.com/sabrinadwiajeng23-cyber/Tugas-pemrograman-pertemuan-ke-9/blob/main/FlowChart.jpg)
 
 #Contoh Output 
 - Nama : Sabrina Dwi Ajeng
@@ -40,4 +40,4 @@ Pengguna dapat memasukkan data sebanyak-banyaknya menggunakan perulangan.
 - UAS : 90 
 - Tambah data (y/t)? t
 
-![alt image](https://github.com/sabrinadwiajeng23-cyber/Tugas-pemrograman-pertemuan-ke-9/blob/main/FlowChart.jpg)
+![alt image](https://github.com/sabrinadwiajeng23-cyber/Tugas-pemrograman-pertemuan-ke-9/blob/main/ss%20run%20pm%203%2C4%2C5.png)
