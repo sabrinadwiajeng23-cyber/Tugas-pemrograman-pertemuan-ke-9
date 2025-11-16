@@ -30,8 +30,7 @@ Pengguna dapat memasukkan data sebanyak-banyaknya menggunakan perulangan.
 7. Jika "t", tampilkan tabel data
 8. Selesai
 
-![alt image]Tugas-pemrograman-pertemuan-ke-9
-/ss run pm 3,4,5.png
+![alt image](https://github.com/sabrinadwiajeng23-cyber/Tugas-pemrograman-pertemuan-ke-9/blob/main/ss%20run%20pm%203%2C4%2C5.png)
 
 #Contoh Output 
 - Nama : Sabrina Dwi Ajeng
